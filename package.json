@@ -1,0 +1,20 @@
+{
+  "name": "stitching-relay-nodes",
+  "description": "",
+  "dependencies": {
+    "apollo-server": "2.2.2",
+    "graphql": "^14.0.2",
+    "lodash": "^4.17.11",
+    "graphql-tools": "^4.0.3",
+    "graphql-add-middleware": "^0.3.1"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --ext js --watch schemas/ --watch index.js --watch yarn.lock index.js"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  }
+}
