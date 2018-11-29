@@ -5,4 +5,4 @@ stiching](https://www.apollographql.com/docs/apollo-server/features/schema-stitc
 when each individual schema has its own [Relay `node` / `nodes`
 lookup](https://facebook.github.io/relay/graphql/objectidentification.htm).
 
-See [apollographql/graphql-tools#TODO_ISSUE]() for more.
+See [apollographql/graphql-tools#1013](https://github.com/apollographql/graphql-tools/issues/1013) for more.
